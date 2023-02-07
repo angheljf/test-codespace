@@ -1,7 +1,9 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# EDA on Flight Delay Data
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+## Introduction
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+This project was inspired by the dataset created by Rob Mulla (https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022). In this initial stage, I will be performing exploratory data analysis on the dataset to understand the data and the relationships between the variables. The dataset contains information about flights in the United States, including carriers, arrival and departure delays, from 2018 to 2022. Initially, I will be focusing on the 2018 dataset, but I will be expanding to the other years as I progress through the project.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## Data
+
+The data is available on Kaggle (https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022). The data is in CSV and Parquet format and contains 1.5 million rows and 31 columns.
